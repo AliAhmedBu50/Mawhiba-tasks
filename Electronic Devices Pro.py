@@ -1,9 +1,18 @@
 gaming={
     "list" : [
-        {"name" : "gaming mice",
-        "price" : 100},
-        {"name" : "gaming consoles",
-        "price" : 1799}
+        {"name" : "GLORIOUS O Gaming Mouse, Wired, White",
+        "price" : 219},
+        {"name" : "Lenovo, Legion M600 Wireless Gaming Mouse",
+        "price" : 299},
+        {"name" : "SteelSeries Rival 3 Gaming Mouse",
+        "price" : 179},
+        {"name" : "LOGITECH G Pro X Gaming Mouse, Wireless, Magenta",
+        "price" : 749},
+        {"name" : "PS5",
+        "price" : 2529},
+        {"name" : "Nintendo Switch",
+        "price" : 1759}
+
     ],
     "message" : "gaming accessory"}
 Pc={"list" : [
